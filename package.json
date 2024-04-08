@@ -1,5 +1,5 @@
 {
-  "name": "tigrinhos-fiec-server",
+  "name": "prova1lpiii",
   "version": "1.0.0",
   "description": "Servidor para jogo de apostas educativo da FIEC",
   "main": "index.js",
@@ -9,10 +9,6 @@
     "prebuild": "npm test",
     "build": "tsc",
     "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://proffillipesilva@github.com/proffillipesilva/tigrinhos-fiec-server.git"
   },
   "keywords": [],
   "author": "",
